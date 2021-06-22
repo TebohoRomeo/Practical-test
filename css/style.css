@@ -96,7 +96,7 @@
 
 .mid-content-3-container {
    transform: skewY(3deg);
-   padding-top: 120px;
+   padding-top: 60px;
 }
 
 .mid-content-3 .mid-content-text-3 {
@@ -303,4 +303,15 @@
         height: 150px;
         width: 33.33%;
     }
+    
+    .mid-content-3 {
+    	height: 60rem;
+    }
+    
+    .header .header-text {
+    position: absolute;
+    top: 11%;
+    left: 8%;
+}
+
 }
