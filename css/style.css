@@ -90,6 +90,13 @@
     color: #fff;
     background: rgb(24, 23, 23);
     margin-bottom: 80px;
+    transform: skewY(-3deg);
+    height: 70rem;
+}
+
+.mid-content-3-container {
+   transform: skewY(3deg);
+   padding-top: 120px;
 }
 
 .mid-content-3 .mid-content-text-3 {
